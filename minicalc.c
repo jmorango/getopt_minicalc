@@ -1,6 +1,4 @@
-/* programmer Jose Moran  Panther ID : 590-9968  .
-   CERTIFICATION: I certify that this work is my own and that
-                  none of it is the work of any other person.
+/*
 
 
     This program functions as a calculator receiving the values from the command line
